@@ -1,0 +1,6 @@
+-e .
+
+nox
+
+-r lint.txt
+-r test.txt
